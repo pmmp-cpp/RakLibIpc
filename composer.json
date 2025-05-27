@@ -7,7 +7,7 @@
 		"php": "^8.0",
 		"php-64bit": "*",
 		"ext-binary": "^1.0.0",
-		"pocketmine/raklib": "dev-master"
+		"pocketmine/raklib": "dev-stable"
 	},
 	"repositories": [
 		{
